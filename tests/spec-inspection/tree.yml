@@ -4,4 +4,5 @@ copyrights:
 enabled-by: true
 directory: /does/not/exist
 links: []
-type: other
+name: Dummy tree
+type: inspection-tree
