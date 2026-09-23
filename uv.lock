@@ -1159,14 +1159,14 @@ dependencies = [
     { name = "mdformat-tables" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/0a/28/2c292e16d1bc9f1834472026d95c81fe07be8a6845ee87bb57cfdcbe4350/specitems-1.6.24.tar.gz", hash = "sha256:63d1fc4761c20103acb1836dd9da5d7e8f15ba4d0c65bf84356f21487360afd3", size = 82901, upload-time = "2026-09-23T08:15:58.846Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/7b/fa/6468cf716b43196c208c47c498f870880cb37a78be7b0ec7d627f641efd3/specitems-1.7.0.tar.gz", hash = "sha256:185ca7f097417e0b23e93aa55b9850604928638532fbf0de9d0d55a0ed60a413", size = 82882, upload-time = "2026-09-23T21:54:54.573Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/62/d2/0e88154dace76e02cac661e4614435631e9989e00f6ed5301995eb5e9c00/specitems-1.6.24-py3-none-any.whl", hash = "sha256:1f3540910511b845fb8b73822cc072b54cc98bf62a3bb708481821f21d349b8f", size = 114490, upload-time = "2026-09-23T08:16:00.064Z" },
+    { url = "https://files.pythonhosted.org/packages/3b/a5/3ae6871f5afce5be16613a9aa06d08e24236469ee9c4b8e78e57c2655970/specitems-1.7.0-py3-none-any.whl", hash = "sha256:8e708ed9a0ecbe0975cd412f22a62180af9dc981dd1f2547a9001db065c372ea", size = 114476, upload-time = "2026-09-23T21:54:53.255Z" },
 ]
 
 [[package]]
 name = "specware"
-version = "1.2.29.dev1"
+version = "1.3.0.dev1"
 source = { editable = "." }
 dependencies = [
     { name = "specitems" },
